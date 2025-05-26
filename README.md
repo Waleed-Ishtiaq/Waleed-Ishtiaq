@@ -43,4 +43,5 @@ Long-Term: Become a full-fledged data scientist, applying data to drive impactfu
 ## 🔗 Let’s Connect
 
 I’m always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out!
+
 📍 LinkedIn (https://www.linkedin.com/in/waleed-ishtiaq/)
