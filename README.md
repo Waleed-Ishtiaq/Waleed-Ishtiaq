@@ -11,6 +11,7 @@ Data Science Tools: Python, NumPy, Pandas, Matplotlib, Seaborn
 Mobile App Development: Building scalable apps with Flutter and Dart
 
 Web Development: WordPress customization and SEO best practices
+
 ## 🛠️ Tools & Technologies
 
 Languages: Python, Dart
@@ -39,6 +40,7 @@ Short-Term: Master the nuances of machine learning algorithms and contribute to 
 
 Long-Term: Become a full-fledged data scientist, applying data to drive impactful decisions
 
-🔗 Let’s Connect
+## 🔗 Let’s Connect
+
 I’m always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out!
 📍 LinkedIn (https://www.linkedin.com/in/waleed-ishtiaq/)
