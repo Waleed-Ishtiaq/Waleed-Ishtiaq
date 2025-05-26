@@ -16,7 +16,7 @@ Web Development: WordPress customization and SEO best practices
 
 Languages: Python, Dart
 
-Libraries & Frameworks: TensorFlow, Keras, Scikit-Learn, Flutter
+Libraries & Frameworks: Pandas, NumPy, Matplotlib, Seaborn,TensorFlow, Keras, Scikit-Learn, Flutter
 
 Web & CMS: WordPress
 
